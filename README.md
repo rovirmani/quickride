@@ -10,7 +10,7 @@ apologize for bad formatting will work on it as we go on
   * Installing an iOS Simulator in Xcode
   To install a simulator, open Xcode > Preferences... and select the Components tab. Select a simulator with the corresponding version of iOS you wish to   use.
 3) If you previously installed a global react-native-cli package, please remove it as it may cause unexpected issues:
-`npm uninstall -g react-native-cli @react-native-community/cli`
+  * `npm uninstall -g react-native-cli @react-native-community/cli`
 4) Then run the following commands in your terminal.
   * `npx react-native start`
   * `npx react-native run-ios`
