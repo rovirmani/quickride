@@ -1,5 +1,6 @@
-# startupxmobile
-apologize for bad formatting will work on it as we go on 
+# open source taxi app clone
+apologize for bad formatting will work on it as i go on 
+
 
 1) After pulling the files -> Visit this link and setup everything for your machine(macOS and iOS) clicking on the React Native CLI Quickstart (https://reactnative.dev/docs/environment-setup?guide=native#command-line-tools) or follow these instructions.
   * `brew install node`
